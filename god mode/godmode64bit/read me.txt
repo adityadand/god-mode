@@ -1,0 +1,37 @@
+this is a god mode console application made by aditya dand
+
+give administrative privilege to the software for best working
+
+its a console application so it wont create shortcuts
+
+you can directly use by clicking on it 
+
+you can use commands of cmd( default command prompt made by windows)
+
+support the further development of software by supporting developer 
+
+help support developer 
+ pay developer via
+
+ paytm 
+ 9617771334
+
+ paypal
+ www.paypal.me/adityadand
+
+ axis vpa or upi
+ aditya.dand@axisbank
+
+ payme bitcoin
+3GLajGrFQssJQVBQVeUfdfz3ohQgUnYMAq
+
+ pay via paytm upi 
+ adityadand@paytm
+
+you can use on mac by
+
+1. Download WineBottler @ http://winebottler.kronenberg.org
+2. Install WineBottler
+3. Open .exe file
+
+
